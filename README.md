@@ -1,2 +1,3 @@
 # hello-world
-my little repository
+
+hello, world of code. it's been a while. how are you?
